@@ -8,7 +8,7 @@ public class TestController {
 
     @GetMapping("/hello")
     public String hello(){
-        return "Hello CICD with Docker!";
+        return "Hello CICD with Docker! 12/22 ";
     }
 
 }
